@@ -7,13 +7,13 @@
 <p>
 <img align='right' src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif" width='200'>
 
- 
+<!--  
 My name is Lorison Gilles🚀, from Brazil (🇧🇷). I am currently a Full Developer. in the advertising and marketing sector in systems development and technology implementation at The Brooklyn Brothers 💻🖥🖱 💡, with this new challenge I seek to always develop and learn, making the most of the knowledge of my mentors 🏪🏬. I'm passionate about development, the best web 🖥️💻 and mobile 📱 technologies and good coffee☕, learning to produce content to help other developers💬
 
  
 In my free time, I like to play (👾) (🎮), practice shotokan karate (☠️), practice jiu-jitsu (👻), watch movies (🎞️) and series (📺), touch the suspension and the powerful engine ( 🚗 💨 🚓), listening to music (🎵 🎻 🎧) enjoying with my family (👨‍👩‍👦), going to church (⛪), eating pizza (🍕) and eventually philosophizing with my wife about life 🏡 with a good wine (🍷).
 </p>
- 
+  -->
  
  
 <p>
@@ -42,7 +42,7 @@ In my free time, I like to play (👾) (🎮), practice shotokan karate (☠️)
   </row>
 </p>
 
-
+<!-- 
 Would you like to meet me?📫
 
 <a href="https://www.linkedin.com/in/lorison-gilles/">
@@ -69,3 +69,4 @@ Would you like to meet me?📫
 </div>
  
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LorisonGilles&color=fc77c4&line=6594c1&point=e6dd7e&bg_color=191622&area=true&hide_border=false)
+ -->
