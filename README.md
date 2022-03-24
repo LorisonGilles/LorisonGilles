@@ -1,4 +1,4 @@
-<img align='right' src = "https://komarev.com/ghpvc/?username=LorisonGilles" alt = "LorisonGilles" />
+<!-- <img align='right' src = "https://komarev.com/ghpvc/?username=LorisonGilles" alt = "LorisonGilles" />
 
 <img align='left' src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif" width='200'>
 
@@ -6,7 +6,7 @@
 
 <p>
 <img align='right' src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif" width='200'>
-
+ -->
 <!--  
 My name is Lorison Gilles🚀, from Brazil (🇧🇷). I am currently a Full Developer. in the advertising and marketing sector in systems development and technology implementation at The Brooklyn Brothers 💻🖥🖱 💡, with this new challenge I seek to always develop and learn, making the most of the knowledge of my mentors 🏪🏬. I'm passionate about development, the best web 🖥️💻 and mobile 📱 technologies and good coffee☕, learning to produce content to help other developers💬
 
